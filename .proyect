@@ -1,0 +1,17 @@
+<? xml versión = " 1.0 " codificación = " UTF-8 " ?>
+< projectDescription >
+	< nombre > CASOS_GUIA_1 </ nombre >
+	< comentario > </ comentario >
+	< proyectos >
+	</ proyectos >
+	< buildSpec >
+		< buildCommand >
+			< nombre > org.eclipse.jdt.core.javabuilder </ nombre >
+			< argumentos >
+			</ argumentos >
+		</ buildCommand >
+	</ buildSpec >
+	< naturalezas >
+		< naturaleza > org.eclipse.jdt.core.javanature </ naturaleza >
+	</ naturalezas >
+</ projectDescription >
